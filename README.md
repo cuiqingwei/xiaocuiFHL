@@ -1,2 +1,3 @@
 # xiaocuiFHL
-在转动的自行车轮子上显示图案
+小崔风火轮简易版，开源全部资料! 
+http://www.amobbs.com/thread-946455-1-1.html
